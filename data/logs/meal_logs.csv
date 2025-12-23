@@ -1,0 +1,3 @@
+user_id,timestamp,food_name,calories,protein_g,carbs_g,fat_g
+user1,2025-12-23T16:55:09.929026,class_5,360.0,24.0,42.0,14.4
+user1,2025-12-23T17:18:00.632431,class_8,200.0,8.0,30.0,4.0
